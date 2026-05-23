@@ -158,5 +158,4 @@ house-price-prediction-spss/
 # Author
 
 **Shakshi Kumari**
-B.Tech Student
-IBM SPSS Modeler Predictive Analytics Project
+B.Tech Student at- Shri Vaishnav Vidyapeeth Vishwavidyalaya
